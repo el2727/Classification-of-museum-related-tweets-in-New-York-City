@@ -4,6 +4,7 @@ The aim of the project is to explore a relationship between location and a use o
 
 Full description of the project: Paper_Text.pdf
 
-Use data collection and classification files.
+For data collection: use Data_Collection_Text.ipynb
+For classification: use Classification_Text.ipynb
 
 Thank you to Dr. Chodorow for advice and help with the conceptualization of the project, suggestions for data collection and the experiment as part of an independent study. Thank you to Dr. Filatova for all the advice and help with conceptualization, classification methodologies and techniques, paper formatting and finalizing this experiment during the class of Text Mining. Thank you to Dr. Rozovskaya for advice and suggestions on using WordNet or similar semantic/synonym sets for a feature model and sharing useful techniques and model reporting during Methods in Computational Linguistics II class.
