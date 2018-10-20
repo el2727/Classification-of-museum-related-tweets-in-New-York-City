@@ -2,7 +2,7 @@
 
 The aim of the project is to explore a relationship between location and a use of language in microblog data, specifically, Twitter data. Twitter data is open and it is also possible to query it based on location. One of important tasks is to identify and predict tweets with "semantically meaningful locations" (Lee et al., 2014), or points-of-interest locations, such as, for example, museums in New York City. The work presented in this paper aims to answer two questions: to which degree a text of a given tweet is related to an actual physical location of that tweet (whether there is a distance dependency), and what features could be used to predict or classify a tweet as related to a museum (as a topic/location). Two classification experiments are performed using differently balanced data. Several classifiers’ performance is compared based on two feature models (a set of word co-occurrences and a dictionary of museum names, abbreviations and tags). 
 
-Full description of the project: Paper_Text.pdf
+Full description of the project: Project_description.pdf
 
 For data collection: use Data_Collection_Text.ipynb
 For classification: use Classification_Text.ipynb
